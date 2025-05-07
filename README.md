@@ -1,13 +1,3 @@
-# About Me
-
-<img src="Courtney%20Vincent%20Headshot.jpg" alt="Courtney Vincent" width="140" style="border-radius: 8px; float: left; margin-right: 20px;"/>
-
-I’m Courtney Vincent, a Master’s student in Business Analytics at Boston University, graduating in August 2025. I use data to uncover insights and support better decision-making across industries like healthcare, transportation, and e-commerce. My strengths include predictive modeling, customer analytics, SQL querying, and data storytelling.
-
-I’m currently seeking full-time opportunities in analytics, consulting, or marketing strategy starting in Fall 2025.
-
----
-
 ## Project Portfolio
 
 ### Hospitalization Cost Forecasting  
