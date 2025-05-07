@@ -25,7 +25,7 @@ Analyzed customer behavior and shipping patterns across the UK and US Amazon mar
 **Tools**: Google BigQuery, SQL, Tableau  
 Investigated fatal accident trends by vehicle type and location using national crash data. Created a Tableau dashboard to visualize state-by-state differences.  
 [View Project on Google Colab](https://colab.research.google.com/drive/1NESyY_wlD5GMfPLfIQtfM8bNyvWV92iT?usp=sharing)  
-[View Tableau Dashboard](#) <!-- Replace with your Tableau Public link -->
+[View Tableau Dashboard](https://public.tableau.com/app/profile/amisha.kelkar/viz/BA775-A01/AnalyzingFatalU_S_TrafficAccidentPatternsFrom2017-2020InsightsforImprovedRoadSafety2)
 
 ---
 
