@@ -1,5 +1,8 @@
 title: Courtney Vincent
-#logo: image link to headshot or something
-#description: text below image 
-#show_downloads: true
+logo: /Courtney%20Vincent%20Headshot.jpg
+description: >
+  Master’s student in Business Analytics at Boston University. 
+  Passionate about data-driven strategy, modeling, and storytelling.
+
 theme: jekyll-theme-minimal
+
